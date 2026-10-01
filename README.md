@@ -11,7 +11,7 @@
        Recomenda-se 1500x500 ou 1600x600.
   -->
   <img
-    src="./Jesus hacking.jpg"
+    src="./Gemini_Generated_Image_evbabsevbabsevba.jpg"
     alt="Malik Mangue — Software Developer"
     width="100%"
   />

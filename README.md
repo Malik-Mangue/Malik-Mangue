@@ -23,7 +23,7 @@
     alt="Typing animation"
   />
 
-  <br>
+  
   <h1>Malik Mangue</h1>
   <p>
     <strong>Software Developer</strong> · Maputo, Mozambique 🇲🇿
@@ -39,7 +39,7 @@
 
 </div>
 ---
-## 👨🏾‍💻 About Me
+## 👨🏾‍💻 **About Me**
 I'm a Software Developer focused on understanding how software works from the
 inside out — from **user interfaces and application logic to databases,
 APIs, architecture and infrastructure**.
@@ -257,7 +257,6 @@ open source or building useful solutions, feel free to connect.
   <img src="https://img.shields.io/badge/LinkedIn-Malik%20Mangue-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<br><br>
 
 <img
   src="https://komarev.com/ghpvc/?username=Malik-Mangue&style=flat-square&color=blue"

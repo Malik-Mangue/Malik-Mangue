@@ -1,18 +1,825 @@
-<h1 align="center">Hi 👋, I'm Malik Edson Mangue</h1>
-<h3 align="center">I am a student passionate about software development, currently focused on web development and database systems (SGBD). My main skills include Java, SQL (PostgreSQL), HTML, and CSS. I am also expanding my knowledge into backend and full-stack development by learning frameworks and technologies such as Spring Boot and PHP. I enjoy building practical projects such as CRUD systems, database-driven applications, and web-based systems that solve real problems. My goal is to become a versatile web developer with strong backend skills, capable of working with different technologies and frameworks in real-world projects. I am continuously learning, improving my problem-solving skills, and building a strong technical foundation through hands-on practice.</h3>
+<!--
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malik-mangue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-mangue" height="30" width="40" /></a>
-<a href="https://instagram.com/malik_mangue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik_mangue" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-mangue&show_icons=true&locale=en&layout=compact" alt="malik-mangue" /></p>
+  README de perfil — Malik Mangue
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-mangue&show_icons=true&locale=en" alt="malik-mangue" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-mangue&" alt="malik-mangue" /></p>
 
+  Substitua "assets/profile-bg.jpg" pela sua foto/banner.
+
+
+
+-->
+
+
+
+<div align="center">
+
+
+
+  <!-- BANNER / BACKGROUND PHOTO
+
+
+
+       Coloque a sua imagem em: assets/profile-bg.jpg
+
+
+
+       Recomenda-se 1500x500 ou 1600x600.
+
+
+
+  -->
+
+
+
+  <img
+
+
+
+    src="assets/profile-bg.jpg"
+
+
+
+    alt="Malik Mangue — Software Developer"
+
+
+
+    width="100%"
+
+
+
+  />
+
+
+
+  <br><br>
+
+
+
+  <!-- ANIMAÇÃO -->
+
+
+
+  <img
+
+
+
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+%7C+Frontend+%7C+Database;Java+%7C+Spring+Boot+%7C+JavaScript;Building+software+that+solves+real+problems"
+
+
+
+    alt="Typing animation"
+
+
+
+  />
+
+
+
+  <br>
+
+
+
+  <h1>Malik Mangue</h1>
+
+
+
+  <p>
+
+
+
+    <strong>Software Developer</strong> · Maputo, Mozambique 🇲🇿
+
+
+
+  </p>
+
+
+
+  <p>
+
+
+
+    <a href="https://www.linkedin.com/in/malik-mangue-058575376/">
+
+
+
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+
+
+    </a>
+
+
+
+    <a href="https://github.com/Malik-Mangue">
+
+
+
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+
+
+    </a>
+
+
+
+  </p>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 👨🏾‍💻 About Me
+
+
+
+I'm a Software Developer focused on understanding how software works from the
+
+
+
+inside out — from **user interfaces and application logic to databases,
+
+
+
+APIs, architecture and infrastructure**.
+
+
+
+I enjoy transforming real-world problems into structured, maintainable and
+
+
+
+scalable software solutions.
+
+
+
+Currently, I'm developing my skills across the full software development
+
+
+
+stack, with particular interest in **Java, Spring Boot, JavaScript,
+
+
+
+PostgreSQL/MySQL, REST APIs, software architecture and system design**.
+
+
+
+> **My approach:** understand the problem → design the solution → build it →
+
+
+
+> test it → analyze it → improve it.
+
+
+
+---
+
+
+
+## 🚀 Top Skills
+
+
+
+<div align="center">
+
+
+
+### Backend & Application Development
+
+
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" alt="Backend skills"/>
+
+
+
+### Frontend
+
+
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend skills"/>
+
+
+
+### Databases
+
+
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database skills"/>
+
+
+
+### Tools & Environment
+
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" alt="Tools and environment"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 🧠 What I'm Working On
+
+
+
+- 🏗️ Building structured web applications with clear separation of concerns
+
+
+
+- ☕ Deepening my knowledge of **Java and Spring Boot**
+
+
+
+- 🌐 Developing frontend applications with **JavaScript and React**
+
+
+
+- 🗄️ Designing relational databases and improving SQL skills
+
+
+
+- 🔐 Learning authentication, authorization and route protection
+
+
+
+- 🧩 Studying software architecture, scalability and maintainability
+
+
+
+- 🤖 Exploring practical ways to use AI agents in software development
+
+
+
+- 🧪 Improving my development process through testing and critical review
+
+
+
+---
+
+
+
+## 📌 Featured Projects
+
+
+
+> This section should contain only projects that represent your strongest
+
+
+
+> engineering work. Replace the links/descriptions as the projects mature.
+
+
+
+| Project | Stack | Focus |
+
+
+
+|---|---|---|
+
+
+
+| **Gestão Académica** | PHP · MySQL · HTML · CSS · JavaScript | Academic management system |
+
+
+
+| **Gestão de Professores** | Java · Swing · JDBC · MySQL | Desktop CRUD / MVC application |
+
+
+
+| **Gestão de Turmas e Horários** | PHP · MySQL · MVC | Classes, schedules and academic management |
+
+
+
+| **Software Experiments** | Java · JavaScript · SQL | Algorithms, architecture and learning projects |
+
+
+
+---
+
+
+
+## 📊 GitHub Track
+
+
+
+<div align="center">
+
+
+
+### GitHub Statistics
+
+
+
+<a href="https://github.com/Malik-Mangue">
+
+
+
+  <img
+
+
+
+    height="170"
+
+
+
+    src="https://github-readme-stats.vercel.app/api?username=Malik-Mangue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+
+
+
+    alt="Malik Mangue GitHub statistics"
+
+
+
+  />
+
+
+
+</a>
+
+
+
+<a href="https://github.com/Malik-Mangue">
+
+
+
+  <img
+
+
+
+    height="170"
+
+
+
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Mangue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+
+
+
+    alt="Most used programming languages"
+
+
+
+  />
+
+
+
+</a>
+
+
+
+<br><br>
+
+
+
+### Contribution Streak
+
+
+
+<a href="https://github.com/Malik-Mangue">
+
+
+
+  <img
+
+
+
+    src="https://streak-stats.demolab.com?user=Malik-Mangue&theme=tokyonight&hide_border=true"
+
+
+
+    alt="GitHub contribution streak"
+
+
+
+  />
+
+
+
+</a>
+
+
+
+<br><br>
+
+
+
+### Contribution Graph
+
+
+
+<a href="https://github.com/Malik-Mangue">
+
+
+
+  <img
+
+
+
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Malik-Mangue&theme=tokyo-night&hide_border=true"
+
+
+
+    alt="GitHub activity graph"
+
+
+
+  />
+
+
+
+</a>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 🛠️ Technology Stack
+
+
+
+```text
+
+
+
+Languages
+
+
+
+├── Java
+
+
+
+├── JavaScript
+
+
+
+├── PHP
+
+
+
+├── SQL
+
+
+
+└── HTML / CSS
+
+
+
+Backend
+
+
+
+├── Spring Boot
+
+
+
+├── REST APIs
+
+
+
+├── JDBC
+
+
+
+└── MVC
+
+
+
+Databases
+
+
+
+├── PostgreSQL
+
+
+
+└── MySQL
+
+
+
+Tools
+
+
+
+├── Git / GitHub
+
+
+
+├── VS Code
+
+
+
+├── Linux
+
+
+
+└── Figma
+
+
+
+Concepts
+
+
+
+├── OOP
+
+
+
+├── Database Design
+
+
+
+├── Normalization
+
+
+
+├── Software Architecture
+
+
+
+├── Authentication & Authorization
+
+
+
+└── Scalability
+
+
+
+```
+
+
+
+---
+
+
+
+## 📈 Development Philosophy
+
+
+
+I don't want to only learn how to make software work.
+
+
+
+I want to understand:
+
+
+
+- **why** a solution works;
+
+
+
+- **why** an architecture is appropriate;
+
+
+
+- what happens behind the abstractions;
+
+
+
+- how components communicate;
+
+
+
+- how data flows through a system;
+
+
+
+- how a system behaves when it grows;
+
+
+
+- and how to recognize when a solution should be redesigned.
+
+
+
+This mindset guides the way I study and build projects.
+
+
+
+---
+
+
+
+## 🎯 Current Direction
+
+
+
+```text
+
+
+
+Software Development
+
+
+
+        │
+
+
+
+        ├── Backend
+
+
+
+        │     ├── Java
+
+
+
+        │     ├── Spring Boot
+
+
+
+        │     └── REST APIs
+
+
+
+        │
+
+
+
+        ├── Frontend
+
+
+
+        │     ├── JavaScript
+
+
+
+        │     ├── React
+
+
+
+        │     └── UI / UX
+
+
+
+        │
+
+
+
+        ├── Data
+
+
+
+        │     ├── PostgreSQL
+
+
+
+        │     ├── MySQL
+
+
+
+        │     └── Database Design
+
+
+
+        │
+
+
+
+        ├── Engineering
+
+
+
+        │     ├── Architecture
+
+
+
+        │     ├── Testing
+
+
+
+        │     ├── Security
+
+
+
+        │     └── Scalability
+
+
+
+        │
+
+
+
+        └── Infrastructure
+
+
+
+              ├── Linux
+
+
+
+              ├── Networking
+
+
+
+              └── Deployment
+
+
+
+```
+
+
+
+---
+
+
+
+## 🌍 Let's Connect
+
+
+
+If you're interested in software development, technology, system design,
+
+
+
+open source or building useful solutions, feel free to connect.
+
+
+
+<div align="center">
+
+
+
+<a href="https://github.com/Malik-Mangue">
+
+
+
+  <img src="https://img.shields.io/badge/GitHub-Malik--Mangue-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+
+
+
+</a>
+
+
+
+<a href="https://www.linkedin.com/in/malik-mangue-058575376/">
+
+
+
+  <img src="https://img.shields.io/badge/LinkedIn-Malik%20Mangue-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+
+
+
+</a>
+
+
+
+<br><br>
+
+
+
+<img
+
+
+
+  src="https://komarev.com/ghpvc/?username=Malik-Mangue&style=flat-square&color=blue"
+
+
+
+  alt="Profile views"
+
+
+
+/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+
+
+</div>

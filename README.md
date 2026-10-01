@@ -38,7 +38,7 @@
   </p>
 
 </div>
----
+
 ## 👨🏾‍💻 **About Me**
 I'm a Software Developer focused on understanding how software works from the
 inside out — from **user interfaces and application logic to databases,

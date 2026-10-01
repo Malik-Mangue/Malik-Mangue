@@ -5,12 +5,13 @@
 
 <div align="center">
 
+
   <!-- BANNER / BACKGROUND PHOTO
        Coloque a sua imagem em: assets/profile-bg.jpg
        Recomenda-se 1500x500 ou 1600x600.
   -->
   <img
-    src="assets/profile-bg.jpg"
+    src="./Jesus hacking.jpg"
     alt="Malik Mangue — Software Developer"
     width="100%"
   />

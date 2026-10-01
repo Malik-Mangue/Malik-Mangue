@@ -138,7 +138,6 @@ PostgreSQL/MySQL, REST APIs, software architecture and system design**.
   />
 </a>
 
-<br><br>
 
 ### Contribution Graph
 
@@ -150,45 +149,6 @@ PostgreSQL/MySQL, REST APIs, software architecture and system design**.
 </a>
 
 </div>
-
----
-
-## 🛠️ Technology Stack
-
-```text
-Languages
-├── Java
-├── JavaScript
-├── PHP
-├── SQL
-└── HTML / CSS
-
-Backend
-├── Spring Boot
-├── REST APIs
-├── JDBC
-└── MVC
-
-Databases
-├── PostgreSQL
-└── MySQL
-
-Tools
-├── Git / GitHub
-├── VS Code
-├── Linux
-└── Figma
-
-Concepts
-├── OOP
-├── Database Design
-├── Normalization
-├── Software Architecture
-├── Authentication & Authorization
-└── Scalability
-```
-
----
 
 ## 📈 Development Philosophy
 
@@ -206,41 +166,6 @@ I want to understand:
 
 This mindset guides the way I study and build projects.
 
----
-
-## 🎯 Current Direction
-
-```text
-Software Development
-        │
-        ├── Backend
-        │     ├── Java
-        │     ├── Spring Boot
-        │     └── REST APIs
-        │
-        ├── Frontend
-        │     ├── JavaScript
-        │     ├── React
-        │     └── UI / UX
-        │
-        ├── Data
-        │     ├── PostgreSQL
-        │     ├── MySQL
-        │     └── Database Design
-        │
-        ├── Engineering
-        │     ├── Architecture
-        │     ├── Testing
-        │     ├── Security
-        │     └── Scalability
-        │
-        └── Infrastructure
-              ├── Linux
-              ├── Networking
-              └── Deployment
-```
-
----
 
 ## 🌍 Let's Connect
 

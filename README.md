@@ -25,13 +25,10 @@
   />
 
   <br>
-
   <h1>Malik Mangue</h1>
-
   <p>
     <strong>Software Developer</strong> · Maputo, Mozambique 🇲🇿
   </p>
-
   <p>
     <a href="https://www.linkedin.com/in/malik-mangue-058575376/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -42,18 +39,13 @@
   </p>
 
 </div>
-
 ---
-
 ## 👨🏾‍💻 About Me
-
 I'm a Software Developer focused on understanding how software works from the
 inside out — from **user interfaces and application logic to databases,
 APIs, architecture and infrastructure**.
-
 I enjoy transforming real-world problems into structured, maintainable and
 scalable software solutions.
-
 Currently, I'm developing my skills across the full software development
 stack, with particular interest in **Java, Spring Boot, JavaScript,
 PostgreSQL/MySQL, REST APIs, software architecture and system design**.
